@@ -1,5 +1,14 @@
 # My ACM (using Java)
 
-[杭电OJ题解代码](src/HDU)
+> 2020/10/13
+```
+HDOJ1000, ZOJ1001
+```
 
-[浙大OJ题解代码](src/PINTINA/ZOJ)
+## Development tools
+
+Jetbrains Idea Community Edition
+
+## License
+
+GPL v3
