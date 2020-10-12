@@ -1,0 +1,1 @@
+原[ZOJ](http://acm.zju.edu.cn/onlinejudge/)已迁到[PINTIA](https://zoj.pintia.cn/)，可以重新注册账号或者绑定已有账号。
