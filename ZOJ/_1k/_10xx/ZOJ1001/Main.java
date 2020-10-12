@@ -1,4 +1,4 @@
-package PINTINA.ZOJ._1k._10xx.ZOJ1001;
+package ZOJ._1k._10xx.ZOJ1001;
 
 //
 import java.util.*;
