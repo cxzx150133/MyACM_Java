@@ -17,6 +17,7 @@ HDOJ1406: rule
 ## Basic
 
 HDOJ1228: A+B, A and B is Words
+HDOJ1021: find rule
 
 ## Advanced
 
