@@ -10,8 +10,8 @@ public class Main {
         int a, b;
 
         while (input.hasNext()) {
-            a = Integer.parseInt(input.next());
-            b = Integer.parseInt(input.next());
+            a = input.nextInt();
+            b = input.nextInt();
 
             System.out.println(a+b);
         }
