@@ -1,5 +1,9 @@
 # My ACM (using Java)
 
+注意：如果分享请直接分享内容或者这个项目链接，不建议分享项目内文件链接，因为做题进度等缘故，文件的相对关系随时可能发生变化。
+
+![](https://latex.codecogs.com/gif.latex?%5CLaTeX)
+
 > 2020/10/13
 ```
 HDOJ1000, HDOJ1001, HDOJ1002
