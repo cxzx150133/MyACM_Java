@@ -20,13 +20,15 @@ For each case, output A + B in one line.
 
 ## Sample Input
 
+```
 1 1
-
+```
 
 ## Sample Output
 
+```
 2
-
+```
 
 ## Author
 
