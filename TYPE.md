@@ -19,6 +19,7 @@ HDOJ1002: A+B, A and B is Big Number.
 
 ### TAG: 2008杭电集训队选拔赛——热身赛
 
+<table>
 <tbody><tr>
   		<td class="TABLE_HEADER" width="5%" bgcolor="#1A5CC8" align="center">Pro.ID</td>
 	<td class="TABLE_HEADER" width="30%" bgcolor="#1A5CC8" align="center">Title</td>
@@ -75,3 +76,4 @@ HDOJ1002: A+B, A and B is Big Number.
 (<a href="status.php?pid=1870&amp;status=5">10744</a>/<a href="status.php?pid=1870">18532</a>)57.98%	</td>
   </tr>
 </tbody>
+</table>
