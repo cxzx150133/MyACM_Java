@@ -21,7 +21,7 @@ Google, Blog, nowcoder, Github
 
 Jetbrains Idea Community Edition
 
-## Development Program Language
+## Development Programming Language
 
 Java
 
