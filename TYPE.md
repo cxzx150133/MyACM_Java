@@ -16,6 +16,8 @@ HDOJ1406: rule
 
 ## Basic
 
+HDOJ1228: A+B, A and B is Words
+
 ## Advanced
 
 ## Top
