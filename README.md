@@ -15,11 +15,7 @@ Jetbrains Idea Community Edition
 
 ## Development Programming Language
 
-Java
-
-Markdown
-
-![](https://latex.codecogs.com/gif.latex?%5CLaTeX)
+Java, Markdown, ![](https://latex.codecogs.com/gif.latex?%5CLaTeX)
 
 ## License
 
