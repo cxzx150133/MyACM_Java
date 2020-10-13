@@ -12,6 +12,8 @@ HDOJ1002: A+B, A and B is Big Number.
 
 HDOJ1402: A*B, A and B is Big Number.
 
+HDOJ1406: rule
+
 ## Basic
 
 ## Advanced
