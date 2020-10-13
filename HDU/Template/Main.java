@@ -17,7 +17,7 @@ public class Main {
         PrintWriter cout = new PrintWriter(new OutputStreamWriter(System.out));
         BufferedInputStream cin = new BufferedInputStream(System.in);
 
-        String  ln = System.lineSeparator();
+        String ln = System.lineSeparator();
 
         while (in.hasNext()) {
             int N = Integer.parseInt(in.next());
