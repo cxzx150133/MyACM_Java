@@ -7,7 +7,7 @@
 
 ## Solutions tools
 
-Google, Blog, nowcoder, Github
+Google, Blog, Github, nowcoder
 
 ## Development tools
 
