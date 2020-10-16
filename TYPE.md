@@ -18,6 +18,7 @@ HDOJ1406: rule
 
 HDOJ1228: A+B, A and B is Words
 HDOJ1021: find rule
+HDOJ1058: DPs
 
 ## Advanced
 
