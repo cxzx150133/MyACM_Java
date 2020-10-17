@@ -16,6 +16,8 @@ HDOJ1406: rule
 
 HDOJ2018: rule
 
+HDOJ1004: count
+
 ## Basic
 
 HDOJ1228: A+B, A and B is Words
