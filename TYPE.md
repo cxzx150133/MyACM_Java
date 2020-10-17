@@ -17,8 +17,12 @@ HDOJ1406: rule
 ## Basic
 
 HDOJ1228: A+B, A and B is Words
+
 HDOJ1021: find rule
-HDOJ1058: DPs
+
+HDOJ1058: DP
+
+HDOJ1003: 最大连续子序列
 
 ## Advanced
 
