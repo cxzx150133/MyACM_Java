@@ -14,6 +14,8 @@ HDOJ1402: A*B, A and B is Big Number.
 
 HDOJ1406: rule
 
+HDOJ2018: rule
+
 ## Basic
 
 HDOJ1228: A+B, A and B is Words
